@@ -7,7 +7,7 @@
 
 **What variables did you include, and why?**   
 
-I included income, disablity, and local, fistGen, and legacy.   
+I included all of the variables because i think they all have significance.  
 
 **Did you exclude any sensitive features? Why or why not?**   
 
